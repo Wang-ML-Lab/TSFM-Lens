@@ -239,12 +239,12 @@ See [`CITATION.cff`](CITATION.cff). In brief:
 
 ```bibtex
 @software{tsfmlens,
-  author  = {Kushnir, Daniel},
-  title   = {TSFM-Lens: comparative mechanistic interpretability for
+  author  = {Kushnir, Daniel and Wang, Hao},
+  title   = {TSFM-Lens: Interpretability for
              time-series foundation models},
   version = {1.1.0},
   doi     = {10.5281/zenodo.23267462},
-  url     = {https://github.com/DanK10097110/TSFM-Interp}
+  url     = {https://github.com/Wang-ML-Lab/TSFM-Lens}
 }
 ```
 
